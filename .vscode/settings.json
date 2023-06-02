@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "[mjml]": {
+    "editor.defaultformatter": "mjmlio.vscode-mjml"
+  }
+}
